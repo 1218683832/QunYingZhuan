@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mrrun.qunyingzhuan">
+
+    <application
+        android:name=".app.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".ui.home.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter3.Chapter3Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter3.Chapter3Activity1">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter3.Chapter3Activity2">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter3.Chapter3Activity3">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter3.Chapter3Activity4">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter4.Chapter4Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter4.Chapter4Activity1">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity1">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity2">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity3">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity4">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity5">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity6">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity7">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity8">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity9">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity10">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter6.Chapter6Activity11">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter7.Chapter7Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter7.Chapter7Activity1">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter7.Chapter7Activity2">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter7.Chapter7Activity3">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter7.Chapter7Activity4">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter7.Chapter7Activity5">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter12.Chapter12Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter12.Chapter12Activity1">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter12.Chapter12Activity2">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter13.Chapter13Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter13.Chapter13Activity1">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ui.chapter14.Chapter14Activity">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.chapter14.Chapter14Activity1"
+            android:theme="@style/ImageTranslucentTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.chapter14.Chapter14Activity2"
+            android:theme="@style/ColorTranslucentTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.DELETE" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

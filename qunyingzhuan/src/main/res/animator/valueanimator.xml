@@ -1,0 +1,13 @@
+<animator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:duration="1000"
+    android:valueFrom="1f"
+    android:valueTo="0f"
+    android:valueType="floatType"
+    >
+    <!--
+        valueFrom: 初始值
+        valueTo：结束值
+        valueType：值得类型
+        propertyName:动画作用的属性
+    -->
+</animator>
